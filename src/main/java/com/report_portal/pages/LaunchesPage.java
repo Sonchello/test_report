@@ -1,0 +1,4 @@
+package com.report_portal.pages;
+
+public class LaunchesPage {
+}
